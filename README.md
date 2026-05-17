@@ -23,7 +23,17 @@ I enjoy creating clean systems, improving logic structure and transforming ideas
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css" />
+
+</div>
+
+---
+
+## 🛠 Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
