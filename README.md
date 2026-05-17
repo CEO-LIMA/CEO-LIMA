@@ -1,16 +1,34 @@
-## Hi there 👋
+# < CΞO.LIMA />
 
-<!--
-**CEO-LIMA/CEO-LIMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const developer = {
+  name: "Carlos Eduardo Lima",
+  role: "JavaScript Developer",
+  focus: ["Web Systems", "APIs", "Backend"],
+  location: "Brazil"
+}
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developer focused on building modern web applications and backend solutions using JavaScript and Node.js.
+
+I enjoy creating clean systems, improving logic structure and transforming ideas into functional applications.
+
+⚡ Tech Stack
+<div align="left"> <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode" /> </div>
+📌 Current Focus
+REST APIs
+Backend architecture
+JavaScript ecosystem
+Web applications
+System organization
+🧠 Philosophy
+"Clean code turns complexity into clarity."
+📊 GitHub Stats
+<div align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+🌐 Contact
+GitHub: https://github.com/CEO-LIMA
+<div align="center">
+> SYSTEM ONLINE
+> CΞO.LIMA initialized...
+</div> ```
