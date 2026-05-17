@@ -2,7 +2,7 @@
 
 ```js
 const developer = {
-  name: "Carlos Eduardo Lima",
+  name: "Carlos Eduardo Santos De Oliveira Lima",
   role: "JavaScript Developer",
   focus: ["Web Systems", "APIs", "Backend"],
   location: "Brazil"
